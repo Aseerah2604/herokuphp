@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
 
 <head>
 
@@ -10,7 +10,7 @@
 
 <!-- Document doesn't have a <title> element -->
   Hello World! test.php
-  
+
 </body>
 
 </html>
