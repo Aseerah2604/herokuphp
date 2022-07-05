@@ -12,6 +12,6 @@
 <title> Testing this page </title>
 </head>
 <body>
-  Hello World! test.php
+  Hello World!
 </body>
 </html>
